@@ -1,0 +1,7 @@
+name: my-cookiecutter
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=2.6.0
+prefix: /Users/jasonsepulveda/anaconda3/envs/my-cookiecutter
